@@ -1,8 +1,6 @@
 <div align = "center">
  
 ![octocat-top](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/6c1d2b38-213e-436a-8994-40de8ef9477f)
-
-
 <details>
 <summary><h1>Open My Profile!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="55" height="55" /></h1></summary>
  
@@ -29,13 +27,15 @@
  /                                                          \ \   |•  / /        \
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ +
 ```
+
 </b>
 </center>
 
 <details>
 <summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="50" height="50" /><h1>About Me!</h1></p></summary>
 <b>
-    
+ <div align="left">
+  
 ```python
 class Computer_Engineer : 
     def __init__(self):
@@ -57,6 +57,7 @@ class Computer_Engineer :
 me = Computer_Engineer()
 me.say_Hi()
 ```
+</div>
 </b>
 </details>
 
@@ -111,6 +112,8 @@ me.say_Hi()
  
 </details>
 </details>
+
+<br>
 
 ![octocat-bottom](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/ec617bef-0dd8-4e08-9a1f-7e2234230eab)
 
