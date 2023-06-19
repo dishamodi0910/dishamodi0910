@@ -67,7 +67,12 @@ me.say_Hi()
 <summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" /><h1>&nbsp;GitHub Stats </h1></p></summary>
 
 <p align="center">
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dishamodi0910&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dishamodi0910&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dishamodi0910&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dishamodi0910&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dishamodi0910&theme=radical&utcOffset=8">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Disha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dishamodi0910&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 </details>
 
