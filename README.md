@@ -23,8 +23,9 @@
 </center>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="50" height="50" />About Me!</p></summary>
-
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="50" height="50" /><h1>About Me!</h1></p></summary>
+<b>
+    
 ```python
 class Computer_Engineer : 
     def __init__(self):
@@ -46,10 +47,11 @@ class Computer_Engineer :
 me = Computer_Engineer()
 me.say_Hi()
 ```
+</b>
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" /> GitHub Stats</p></summary>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" /><h1> GitHub Stats </h1></p></summary>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dishamodi0910&theme=radical">
@@ -63,12 +65,12 @@ me.say_Hi()
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="50" height="50" />GitHub Trophies!</p></summary>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="50" height="50" /><h1>GitHub Trophies!</h1></p></summary>
 <img src="https://github-profile-trophy.vercel.app/?username=dishamodi0910&theme=discord&column=4&no-bg=true&margin-w=15&margin-h=10" width=80%>
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" />Articles :))</p></summary>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" /><h1>Articles :))</h1></p></summary>
 
 |Types of Machine Learning|Automated Machine Learning|Pip v/s Conda|
 |:---:|:---:|:---:|
