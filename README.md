@@ -138,3 +138,10 @@ me.say_Hi()
   <a href="http://medium.com/@dishamodi9000"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=medium&logoColor=FFFFFF&label=" alt="Medium" /></a>
   <a href="mailto:dishamodi3105@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=darkgreen&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
+<br>
+<br>
+<b>
+<div align = "center">
+  <h2>Show some ❤️ by starring some of the repositories!</h2>
+</div>
+</b>
