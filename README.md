@@ -84,6 +84,15 @@ me.say_Hi()
 </details>
 
 <details>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="55" height="55" /><h1>Skill Set!</h1></p></summary>
+ <div>
+  
+ [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,arduino,c,cs,cpp,html,bootstrap,css,react,js,php,django,flask,mysql,md,unity,atom,eclipse,emacs,figma,idea,vscode&perline=8)](https://skillicons.dev)
+
+ </div>
+</details>
+
+<details>
 <summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" /><h1>&nbsp;Articles :))</h1></p></summary>
 
 |<a href="https://medium.com/@dishamodi9000/types-of-machine-learning-5b06c3116cb" style="color:white;">Types of Machine Learning</a>|<a href="https://medium.com/@dishamodi9000/automated-machine-learning-298eb2fe56ef">Automated Machine Learning</a>|<a href="https://medium.com/@dishamodi9000/pip-v-s-conda-c4e48788cf0b">Pip v/s Conda</a>|
