@@ -51,7 +51,7 @@ me.say_Hi()
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" /><h1> GitHub Stats </h1></p></summary>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" /><h1>&nbsp;GitHub Stats </h1></p></summary>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dishamodi0910&theme=radical">
@@ -70,7 +70,7 @@ me.say_Hi()
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" /><h1>Articles :))</h1></p></summary>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" /><h1>&nbsp;Articles :))</h1></p></summary>
 
 |Types of Machine Learning|Automated Machine Learning|Pip v/s Conda|
 |:---:|:---:|:---:|
