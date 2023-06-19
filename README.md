@@ -83,7 +83,7 @@ me.say_Hi()
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="50" height="50" /><h1>&nbsp;Things I love! :))</h1></p></summary>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="50" height="50" /><h1>&nbsp;Things I love!</h1></p></summary>
 
 |||||||`P`||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|
