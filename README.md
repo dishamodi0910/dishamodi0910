@@ -1,3 +1,13 @@
+<div align = "center">
+ 
+![octocat-top](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/6c1d2b38-213e-436a-8994-40de8ef9477f)
+
+
+<details>
+<summary><h1>Open My Profile!</h1></summary>
+ 
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=E8B9F7&width=770&height=60&lines=Hello+Everyone!👋+Disha+here+(+o_o+);It's+so+Good+to+see+you+here!)](https://git.io/typing-svg)
 
 <center>
@@ -100,3 +110,9 @@ me.say_Hi()
 
  
 </details>
+</details>
+
+![octocat-bottom](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/ec617bef-0dd8-4e08-9a1f-7e2234230eab)
+
+
+</div>
