@@ -81,3 +81,22 @@ me.say_Hi()
 |<a href=""><img src="src\2.png"></a>|<a href=""><img src="src\4.png"></a>|<a href=""><img src="src\8.png"></a>|
 
 </details>
+
+<details>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="50" height="50" /><h1>&nbsp;Things I love! :))</h1></p></summary>
+
+|||||||`P`||||||
+|-|-|-|-|-|-|-|-|-|-|-|-|
+|`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`|||
+|||||||`Y`|||`O`|||
+|||||||`C`|||`D`|`E`|`V`|
+|||||||`H`|||`E`|||
+||||||`B`|`O`|`O`|`K`|`S`|||
+|||||||`L`||||||
+|||||||`O`||||||
+|||`D`|`E`|`S`|`I`|`G`|`N`|||||
+|||`S`||||`Y`||||||
+|||`A`||||||||||
+
+ 
+</details>
