@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=E8B9F7&width=770&height=60&lines=Hello+Everyone!👋+Disha+here+(+o_o+);It's+so+Good+to+see+you+here!)](https://git.io/typing-svg)
 
-<center>
+<div align = "center">
 <b>
 
 ```diff
@@ -29,7 +29,7 @@
 ```
 
 </b>
-</center>
+</div>
 
 <details>
 <summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="50" height="50" /><h1>About Me!</h1></p></summary>
