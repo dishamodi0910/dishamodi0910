@@ -1,28 +1,81 @@
-<i><H1>👋 Hey, Myself <b>Disha Modi !!</b>🌝</span></H1></i>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=E8B9F7&width=770&height=60&lines=Hello+Everyone!👋+Disha+here+(+o_o+);It's+so+Good+to+see+you+here!)](https://git.io/typing-svg)
 
-<h2><i><b>Always curious about the Tech Stuffs and Exploring new things..</b></i></h2>
+<center>
+<b>
 
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ +
++@                                                              o o              @
++@    Programming isn't what you know;                         _|_|_             @
++@    it's what you can figure out.                         <\/      \/>         @
++@       while(!success){                                   (| ^• •^  |)         @
++@            try{                                          (|   ‿   |)         @
++@                again();                                  </\ _ _ _ /\>        @
++@            }                                               _ _/ \_ _          @
++@            catch(Exception e){                            /         \         @
++@                print("Learnt something");                | |   |•  | |        @
++@            }                                             | |   |•  | |        @
++@        }                                                 / /   |•  \ \        @
++@                                                          \ \   |•  / /        @
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ +
+```
+</b>
+</center>
 
-![helloworld](https://user-images.githubusercontent.com/106090499/209107267-2af36d0c-ba49-4e63-b238-65d2d530c72c.gif)
-<h3><i> The Clock is ticking and Goal is calling, so I don't support Explicit Type Casting😅</i></h3>
+<details>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="50" height="50" />About Me!</p></summary>
 
-- 🌱 I’m currently learning various <b>Machine Learning Algorithms👀👩‍💻</b>
-- 💞️ Talk with me about Data Structures and Algorithms 💙
-- 📫 You can reach out to me on dishamodi9000@gmail.com
-<h3>
-	<pre>
- while(alive)
- {
- 	NeverSettleAtLessThanYourWorth()🙂;
- 	life--;
- }
- 	</pre>
-</h3>
+```python
+class Computer_Engineer : 
+    def __init__(self):
+        self.name = "Disha Modi😇"
+        self.currentRole = "Student"
+        self.college = "Dharmsinh Desai University"
+        self.email = "dishamodi3105@gmail.com"
 
+    def fieldsExplored():
+        self.canCodein = ["C","C++","C#","Python","JavaScript"]
+        self.interestedIn = ["Machine Learning", "Deep Learning", "Image Processing", "Web Development", "Android Development"]
+        
+    def futureGoals():
+        self.goals = ["Exploring the world of Open Source😃", "Increasing Network"]
 
+    def say_Hi():
+        print("Thank you for visiting my profile! I hope you would love it!")
 
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/dishamodi0910)
-<!---
-dishamodi0910/dishamodi0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+me = Computer_Engineer()
+me.say_Hi()
+```
+</details>
+
+<details>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" /> GitHub Stats</p></summary>
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dishamodi0910&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dishamodi0910&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dishamodi0910&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dishamodi0910&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dishamodi0910&theme=radical&utcOffset=8">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Disha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=dishamodi0910&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+</p>
+</details>
+
+<details>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="50" height="50" />GitHub Trophies!</p></summary>
+<img src="https://github-profile-trophy.vercel.app/?username=dishamodi0910&theme=discord&column=4&no-bg=true&margin-w=15&margin-h=10" width=80%>
+</details>
+
+<details>
+<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" />Articles :))</p></summary>
+
+|Types of Machine Learning|Automated Machine Learning|Pip v/s Conda|
+|:---:|:---:|:---:|
+|<a href=""><img src="src\7.png"></a>|<a href=""><img src="src\5.png"></a>|<a href=""><img src="src\3.png"></a>|
+
+|Stepping in Data Preparation|Adversarial Machine Learning|Computer Vision|
+|:---:|:---:|:---:|
+|<a href=""><img src="src\2.png"></a>|<a href=""><img src="src\4.png"></a>|<a href=""><img src="src\8.png"></a>|
+
+</details>
