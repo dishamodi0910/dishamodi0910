@@ -123,6 +123,7 @@ me.say_Hi()
 </div>
 
 <div align=center>
+ <a href="https://twitter.com/DishaModi3105"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=darkblue&logo=Twitter&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="https://www.linkedin.com/in/disha-modi-32598a241"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="http://medium.com/@dishamodi9000"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=medium&logoColor=FFFFFF&label=" alt="Medium" /></a>
   <a href="mailto:dishamodi3105@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=darkgreen&logo=Gmail&logoColor=FFFFFF&label=" /></a>
