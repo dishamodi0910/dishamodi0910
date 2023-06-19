@@ -1,3 +1,5 @@
+
+
 <div align = "center">
  
 ![octocat-top](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/6c1d2b38-213e-436a-8994-40de8ef9477f)
@@ -118,4 +120,10 @@ me.say_Hi()
 ![octocat-bottom](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/ec617bef-0dd8-4e08-9a1f-7e2234230eab)
 
 
+</div>
+
+<div align=center>
+  <a href="https://www.linkedin.com/in/disha-modi-32598a241"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="http://medium.com/@dishamodi9000"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=000000&logo=medium&logoColor=FFFFFF&label=" alt="Medium" /></a>
+  <a href="mailto:dishamodi3105@gmail.com"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=darkgreen&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
