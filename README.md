@@ -85,7 +85,7 @@ me.say_Hi()
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="55" height="55" /><h1>Skill Set!</h1></p></summary>
+<summary style = "font-size : 40px;"><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="55" height="55" />Skill Set!</h1></p></summary>
  <div>
   
  [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,arduino,c,cs,cpp,html,bootstrap,css,react,js,php,django,flask,mysql,md,unity,atom,eclipse,emacs,figma,idea,vscode&perline=8)](https://skillicons.dev)
