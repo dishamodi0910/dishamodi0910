@@ -8,7 +8,7 @@
 
 
 <details>
-<summary><h1>Open My Profile!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="55" height="55" /></h1></summary>
+<summary><h1>Wanna know about Me?<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="55" height="55" /></h1></summary>
  
 <br>
 
