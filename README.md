@@ -37,7 +37,7 @@
 </div>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="50" height="50" /><h1>About Me!</h1></p></summary>
+<summary style = "font-size : 40px;"><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Astronaut%20Light%20Skin%20Tone.png" alt="Astronaut Light Skin Tone" width="50" height="50" />About Me!</h1></p></summary>
 <b>
  <div align="left">
   
@@ -67,7 +67,7 @@ me.say_Hi()
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" /><h1>&nbsp;GitHub Stats </h1></p></summary>
+<summary style = "font-size : 40px;"><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="40" height="40" />&nbsp;GitHub Stats </h1></p></summary>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dishamodi0910&theme=radical">
@@ -80,7 +80,7 @@ me.say_Hi()
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="50" height="50" /><h1>GitHub Trophies!</h1></p></summary>
+<summary style = "font-size : 40px;"><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="50" height="50" />GitHub Trophies!</h1></p></summary>
 <img src="https://github-profile-trophy.vercel.app/?username=dishamodi0910&theme=discord&column=4&no-bg=true&margin-w=15&margin-h=10" width=80%>
 </details>
 
@@ -94,7 +94,7 @@ me.say_Hi()
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" /><h1>&nbsp;Articles :))</h1></p></summary>
+<summary style = "font-size : 40px;"><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" />&nbsp;Articles :))</h1></p></summary>
 
 |<a href="https://medium.com/@dishamodi9000/types-of-machine-learning-5b06c3116cb" style="color:white;">Types of Machine Learning</a>|<a href="https://medium.com/@dishamodi9000/automated-machine-learning-298eb2fe56ef">Automated Machine Learning</a>|<a href="https://medium.com/@dishamodi9000/pip-v-s-conda-c4e48788cf0b">Pip v/s Conda</a>|
 |:---:|:---:|:---:|
@@ -107,7 +107,7 @@ me.say_Hi()
 </details>
 
 <details>
-<summary style = "font-size : 40px;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="50" height="50" /><h1>&nbsp;Things I love!</h1></p></summary>
+<summary style = "font-size : 40px;"><h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="50" height="50" />&nbsp;Things I love!</h1></p></summary>
 
 |||||||`P`||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|
