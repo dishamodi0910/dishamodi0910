@@ -4,7 +4,8 @@
 
 <div align = "center">
  
-![octocat-top](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/994dd68f-00ca-4903-ba1c-add9dd2978ee)
+![octocat1](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/cf24a3b1-b35f-405d-81c6-537dd08bf71d)
+
 
 <details>
 <summary><h1>Open My Profile!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="55" height="55" /></h1></summary>
@@ -128,7 +129,7 @@ me.say_Hi()
 
 <br>
 
-![octocat-bottom](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/e0becdef-0691-4989-9de4-e715829d52b7)
+![octocat2](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/3058cb25-c0a3-4a24-97f1-f131198dc065)
 
 
 
