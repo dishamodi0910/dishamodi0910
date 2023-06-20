@@ -151,3 +151,9 @@ me.say_Hi()
   <h2>Show some ❤️ by starring some of the repositories!</h2>
 </div>
 </b>
+
+<br> 
+<div align = "center">
+ 
+ [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+</div>
