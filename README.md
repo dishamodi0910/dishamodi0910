@@ -1,4 +1,3 @@
-
 <h1 align ="center" style="color : white;">𝕺𝖕𝖊𝖓 𝕾𝖔𝖚𝖗𝖈𝖊 𝖎𝖘 💗!</h1>
 <div align = "center">
  
@@ -153,5 +152,11 @@ me.say_Hi()
 <br> 
 <div align = "center">
  
- [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-</div>
+ ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+
+ <br>
+ <br>
+ 
+</center>
+
+![result (1)](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/1e8fcc0f-66fa-444a-aee7-a06512bcb723)
