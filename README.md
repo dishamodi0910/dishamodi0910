@@ -13,7 +13,8 @@
  
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=E8B9F7&width=770&height=60&lines=Hello+Everyone!👋+Disha+here+(+o_o+);It's+so+Good+to+see+you+here!)](https://git.io/typing-svg)
+
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=E8B9F7&width=770&height=60&lines=Hello+Everyone!👋+Disha+here+(+o_o+);It's+so+Good+to+see+you+here!)](https://git.io/typing-svg) -->
 
 ![terminal (1)](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/809b7c2f-d19a-4799-809f-ad5b0384ca69)
 
