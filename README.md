@@ -3,7 +3,6 @@
 
 <h1 align ="center" style="color : white;">𝕺𝖕𝖊𝖓 𝕾𝖔𝖚𝖗𝖈𝖊 𝖎𝖘 💗!</h1>
 <br>
-<br>
 <div align = "center">
  
 ![octocat1](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/cf24a3b1-b35f-405d-81c6-537dd08bf71d)
