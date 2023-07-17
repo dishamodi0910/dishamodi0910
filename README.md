@@ -163,4 +163,5 @@ me.say_Hi()
  
 </center>
 
-![result (1)](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/1e8fcc0f-66fa-444a-aee7-a06512bcb723)
+
+<!-- ![result (1)](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/1e8fcc0f-66fa-444a-aee7-a06512bcb723)
