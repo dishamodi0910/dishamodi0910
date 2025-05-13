@@ -1,4 +1,4 @@
-![github-header-image (2)](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/d54107f2-b435-4210-9f03-13c7652c31eb)
+<!-- ![github-header-image (2)](https://github.com/dishamodi0910/dishamodi0910/assets/106090499/d54107f2-b435-4210-9f03-13c7652c31eb) -->
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{dishamodi0910}/count.svg" alt="DishaModi :: Visitor's Count" /></p>
